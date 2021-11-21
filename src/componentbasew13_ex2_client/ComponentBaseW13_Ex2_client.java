@@ -17,8 +17,8 @@ public class ComponentBaseW13_Ex2_client {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      int std = insertStudent(61050959, "Supawich sukkanta", 3.00);
-      //String std = updateStudent(61050959, "Supawich sukkanta", 2.00);
+      int std = insertStudent(61050959, "John Doe", 3.00);
+      //String std = updateStudent(61050959, "John Doe", 2.00);
        //services.Student std = findStudentById(61050210);
        //String std = removeStudent(61050959);
        System.out.println(std);
